@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{EB354144-C761-D834-6A2E-D26906588E77}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Collectable.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Collectable.cs" Line="29" Column="37" />
+      <File FileName="Assets/Scripts/Respawn_Ball.cs" Line="34" Column="1" />
+      <File FileName="Assets/Scripts/Win_Point.cs" Line="18" Column="6" />
+      <File FileName="Assets/Scripts/MenuInteraction.cs" Line="29" Column="1" />
+      <File FileName="Assets/Scripts/DestroyObjects.cs" Line="5" Column="2" />
+      <File FileName="Assets/SteamVR/InteractionSystem/Core/Scripts/ControllerHoverHighlight.cs" Line="30" Column="4" />
+      <File FileName="Assets/Scripts/ObjectMenuManager.cs" Line="35" Column="29" />
+      <File FileName="Assets/Scripts/ChangeColor.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/Trampoline.cs" Line="8" Column="26" />
+      <File FileName="Assets/Scripts/Fan.cs" Line="10" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Test1 PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
